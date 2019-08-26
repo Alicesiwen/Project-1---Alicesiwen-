@@ -1,0 +1,11 @@
+3a. Some airline data is located at: /class/datamine/data/flights Roughly how much data in stored in this directory? We do not need an exact count (yet). Just give a sense: several kilobytes? megabytes? gigabytes? petabytes?
+83.1 GB
+3b. Find the map files for the taxi data (these are jpg files). How many files are there, in that maps directory?
+5
+3c. Roughly how much data is stored (altogether) in the directory about yellow taxi cabs?
+241.9 GB
+3d. For which years do we have election data?
+1980
+3e. For which cities in California do we have AirBnB data?
+Los-Angeles, Okland, Pacdic-grove, San-Deigo, San-Francisco, San-Mateo-County, Santa-Clara-County, and Santa-Cruz-County. 
+
